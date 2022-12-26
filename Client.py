@@ -1,8 +1,8 @@
 from discord.ext import commands
 import requests, platform, discord, urllib, psutil, socket, sys, os
 
-token = 'MToken.mnt.discord' # Token
-channel_id = 111111111111111111  # Channel ID
+token = 'MTA1NjkyNzAzMTI4OTQ1MDU5Ng.GvHhQi.hZcA4UXHP_ZitOvEaOsindUazFcJNt-ZB8K0Co' # Token
+channel_id = 1012336203120529438  # Channel ID
 
 # bot
 intents = discord.Intents.default()
